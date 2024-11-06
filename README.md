@@ -6,9 +6,9 @@
 
 QQ： 89271406
 
-WeChat：[jiangfuquan](weixin://contacts/profile/jiangfuquan)
+WeChat：[jiangfuquan](weixin://contacts/profile/jiangfuquan)   <a href="https://weixin://contacts/profile/jiangfuquan">jiangfuquan</a>
 
-E-Mail：[jiangfuquan@hotmail.com](mailto://jiangfuquan@hotmail.com)
+E-Mail：[jiangfuquan@hotmail.com](mailto:jiangfuquan@hotmail.com)
 
 E-Mail：finchcn@gmail.com
 
