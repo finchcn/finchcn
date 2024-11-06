@@ -6,9 +6,9 @@
 
 QQ： 89271406
 
-WeChat：[jiangfuquan](weixin://contacts/profile/jiangfuquan)   <a href="https://weixin://contacts/profile/jiangfuquan">jiangfuquan</a>
+WeChat：jiangfuquan
 
-E-Mail：[jiangfuquan@hotmail.com](mailto:jiangfuquan@hotmail.com)
+E-Mail：jiangfuquan@hotmail.com
 
 E-Mail：finchcn@gmail.com
 
@@ -18,3 +18,12 @@ Blog: https://blog.jiangfuquan.com/
 
 Books: https://book.jiangfuquan.com/
 
+<!-- QQ -->
+<img src="https://github.com/user-attachments/assets/7d47d659-de28-45ea-90e1-bbfb56513ae2" width="350px"/>
+<!-- weixin -->
+<img src="https://github.com/user-attachments/assets/dd6ba5cf-41b0-4b3d-89cf-076d4c1d0790" width="350px"/>
+
+<!--
+![qq](https://github.com/user-attachments/assets/7d47d659-de28-45ea-90e1-bbfb56513ae2)
+![weixin](https://github.com/user-attachments/assets/dd6ba5cf-41b0-4b3d-89cf-076d4c1d0790)
+-->
