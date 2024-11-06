@@ -1,16 +1,20 @@
-## Hi there 👋
+# 姜福泉
 
-<!--
-**finchcn/finchcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+爱好：计算机视觉，计算几何，GIS，RS，测绘，GPU高性能计算，计算机图形学，机器学习与数据挖掘，Raspberry，各种软硬件技术及算法
 
-Here are some ideas to get you started:
+语言： C/C++, PHP, Python, JS, Java, C#, Golang, Swift, Matlab, Many of top 50 language in TOIBE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+QQ： 89271406
+
+WeChat：[jiangfuquan](weixin://contacts/profile/jiangfuquan)
+
+E-Mail：[jiangfuquan@hotmail.com](mailto://jiangfuquan@hotmail.com)
+
+E-Mail：finchcn@gmail.com
+
+Website: https://www.jiangfuquan.com/
+
+Blog: https://blog.jiangfuquan.com/
+
+Books: https://book.jiangfuquan.com/
+
